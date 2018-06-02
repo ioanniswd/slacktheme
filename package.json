@@ -1,0 +1,27 @@
+{
+  "name": "slacktheme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "slacktheme": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioanniswd/slacktheme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ioanniswd/slacktheme/issues"
+  },
+  "homepage": "https://github.com/ioanniswd/slacktheme#readme",
+  "description": "Themes for slack by adding custom css themes through terminal",
+  "dependencies": {
+    "minimist": "1.2.0"
+  }
+}
